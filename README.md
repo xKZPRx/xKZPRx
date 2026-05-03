@@ -2,11 +2,21 @@
 
 ###
 
-<p align="left">Hey! I’m a 17-year-old student from Poland who loves coding. It started as a small interest, but now it’s something I do almost every day. I really enjoy learning new things and watching my code slowly turn into something that works.<br><br>I use HTML, CSS, JavaScript, Python, React, and Node.js. Most of the time I’m coding in Visual Studio Code. My favorites are React, Python, and VS Code because they just feel right to work with.<br><br>I haven’t built any big projects yet, but I’m working on Pingy, a small uptime monitoring SaaS made with React, Python, HTML, CSS, and JavaScript. It’s helping me learn how to connect the frontend and backend into something real.<br><br>I like trying new programming languages and frameworks to get better and build more projects. I code for fun, to learn, and because I want to become a real developer in the future.</p>
+<p align="left">
+I'm a 17-year-old developer from Poland. I started coding out of curiosity, and it turned into a daily habit of building and experimenting with software.
+
+I mainly work with Python and web development (HTML, CSS, JavaScript, React, Node.js). I also use Electron for desktop apps. Most of my projects are built in Visual Studio Code.
+
+Right now I'm working on <b>Pingy</b> (a simple uptime monitoring tool built with React and Python). It monitors system uptime over time and helps me understand how frontend, backend and API communication works in practice.
+
+I focus on building small but functional projects, improving step by step, and gradually moving toward cybersecurity and deeper system understanding.
+</p>
 
 ###
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
@@ -15,9 +25,9 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="50" alt="electron logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="15" />
